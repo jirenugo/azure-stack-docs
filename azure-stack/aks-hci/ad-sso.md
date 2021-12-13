@@ -296,4 +296,3 @@ In this how-to guide, you learned how to configure AD Authentication to securely
 - [Deploy Linux applications on a Kubernetes cluster](./deploy-linux-application.md).
 - [Deploy a Windows Server application on a Kubernetes cluster](./deploy-windows-application.md).
 
-
